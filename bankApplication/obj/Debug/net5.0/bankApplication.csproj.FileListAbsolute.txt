@@ -1,0 +1,16 @@
+C:\Projects\ProjetosDIO\bankApplication\bin\Debug\net5.0\bankApplication.exe
+C:\Projects\ProjetosDIO\bankApplication\bin\Debug\net5.0\bankApplication.deps.json
+C:\Projects\ProjetosDIO\bankApplication\bin\Debug\net5.0\bankApplication.runtimeconfig.json
+C:\Projects\ProjetosDIO\bankApplication\bin\Debug\net5.0\bankApplication.runtimeconfig.dev.json
+C:\Projects\ProjetosDIO\bankApplication\bin\Debug\net5.0\bankApplication.dll
+C:\Projects\ProjetosDIO\bankApplication\bin\Debug\net5.0\ref\bankApplication.dll
+C:\Projects\ProjetosDIO\bankApplication\bin\Debug\net5.0\bankApplication.pdb
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.csprojAssemblyReference.cache
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.AssemblyInfoInputs.cache
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.AssemblyInfo.cs
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.csproj.CoreCompileInputs.cache
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.dll
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\ref\bankApplication.dll
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.pdb
+C:\Projects\ProjetosDIO\bankApplication\obj\Debug\net5.0\bankApplication.genruntimeconfig.cache

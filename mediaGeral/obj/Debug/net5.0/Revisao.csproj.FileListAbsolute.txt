@@ -1,0 +1,32 @@
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Introdução ao Csharp\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Introdução ao Csharp\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Introdução ao Csharp\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Introdução ao Csharp\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Introdução ao Csharp\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Introdução ao Csharp\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Introdução ao Csharp\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Introdução ao Csharp\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\bin\Debug\net5.0\Revisao.exe
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\bin\Debug\net5.0\Revisao.deps.json
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\bin\Debug\net5.0\Revisao.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\bin\Debug\net5.0\ref\Revisao.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\bin\Debug\net5.0\Revisao.pdb
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\ref\Revisao.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.pdb
+C:\Projects\ProjetosDIO\bootcamp-projects\mediaAluno\obj\Debug\net5.0\Revisao.genruntimeconfig.cache

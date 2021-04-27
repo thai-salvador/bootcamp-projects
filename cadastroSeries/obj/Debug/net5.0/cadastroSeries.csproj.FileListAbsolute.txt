@@ -1,0 +1,16 @@
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\bin\Debug\net5.0\cadastroSeries.exe
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\bin\Debug\net5.0\cadastroSeries.deps.json
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\bin\Debug\net5.0\cadastroSeries.runtimeconfig.json
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\bin\Debug\net5.0\cadastroSeries.runtimeconfig.dev.json
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\bin\Debug\net5.0\cadastroSeries.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\bin\Debug\net5.0\ref\cadastroSeries.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\bin\Debug\net5.0\cadastroSeries.pdb
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.csprojAssemblyReference.cache
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.AssemblyInfoInputs.cache
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.AssemblyInfo.cs
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.csproj.CoreCompileInputs.cache
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\ref\cadastroSeries.dll
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.pdb
+C:\Projects\ProjetosDIO\bootcamp-projects\cadastroSeries\obj\Debug\net5.0\cadastroSeries.genruntimeconfig.cache
